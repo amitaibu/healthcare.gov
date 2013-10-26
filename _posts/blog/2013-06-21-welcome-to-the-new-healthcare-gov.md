@@ -11,7 +11,7 @@ topics:
 "seo-keywords": "Health Insurance Marketplace, health insurance, HealthCare.gov, health care law,  coverage options"
 ---
 
-Health insurance is changing in important ways in 2014. We’ve updated HealthCare.gov to help you get ready for those changes, especially one of the most important: the opening of the new [Health Insurance Marketplace](/what-is-the-health-insurance-marketplace/).
+Test changing in important ways in 2014. We’ve updated HealthCare.gov to help you get ready for those changes, especially one of the most important: the opening of the new [Health Insurance Marketplace](/what-is-the-health-insurance-marketplace/).
 ## Answering your questions about health coverage
 Our mission is to help you understand your new health coverage options so you can enroll in a plan that works for you and your family. If you run a small business, we’ll help you [find a plan that works for you and your employees](/what-is-the-shop-marketplace/). [Self-employed?](/what-if-im-self-employed) We’ve got that covered too.
 
