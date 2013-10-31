@@ -69,10 +69,9 @@ jekyll_sort:
 
 # Prose settings
 prose:
-  media: 'assets'
+  # media: 'assets'
   rooturl: "_posts"
   siteurl: "https://www.healthcare.gov/"
-  relativeLinks: "https://www.healthcare.gov/resources/prose/relativeLinks.jsonp"
 
 states:
   - Alabama
