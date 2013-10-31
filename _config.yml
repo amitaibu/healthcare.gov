@@ -70,7 +70,7 @@ jekyll_sort:
 # Prose settings
 prose:
   # media: 'assets'
-  # rooturl: "_posts"
+  rooturl: "_posts"
   # siteurl: "https://www.healthcare.gov/"
 
 states:
