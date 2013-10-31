@@ -73,8 +73,6 @@ prose:
   rooturl: "_posts"
   siteurl: "https://www.healthcare.gov/"
   relativeLinks: "https://www.healthcare.gov/resources/prose/relativeLinks.jsonp"
-  site:
-    tags: "https://www.healthcare.gov/api/tags.jsonp"
 
 states:
   - Alabama
